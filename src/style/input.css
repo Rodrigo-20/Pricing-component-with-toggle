@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+html{
+    font-size: 15px;
+}
+
+.price-container{
+    height: 101.25px;
+}
+
+.price-toggle-container{
+    transition: transform 300ms ease-in;
+}
+
+.move-up{
+    transform: translateY(-101px);
+}
