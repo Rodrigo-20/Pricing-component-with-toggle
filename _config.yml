@@ -1,0 +1,10 @@
+baseurl: "/Pricing-component-with-toggle"
+url: "https://rodrigo-20.github.io"
+
+title: "pricing component with toggle"
+description: "responsiver component built with html, js and tailwind css"
+
+theme-color: indigo
+
+author-name: Rodrigo Reynaga
+author-bio: developer
