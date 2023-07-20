@@ -10,6 +10,10 @@ html{
     font-size: 15px;
 }
 
+.prices-container{
+    width: 850px;
+}
+
 .price-container{
     height: 101.25px;
 }
