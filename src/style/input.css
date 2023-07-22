@@ -25,3 +25,9 @@ html{
 .move-up{
     transform: translateY(-101px);
 }
+
+@media (max-width:650px) {
+    .prices-container{
+        width: unset;
+    }
+}
